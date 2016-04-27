@@ -5,6 +5,6 @@ public class Helloworld {
 
     public static void main(String args[])
     {
-        System.out.println("sandeep in master first commit");
+        System.out.println("sandeep in qa  commit");
     }
 }
